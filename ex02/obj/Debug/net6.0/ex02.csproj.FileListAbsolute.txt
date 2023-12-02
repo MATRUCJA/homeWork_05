@@ -1,0 +1,15 @@
+C:\Users\bibev\OneDrive\Рабочий стол\учеба\дз\c#\homeWork_05\ex02\obj\Debug\net6.0\ex02.csproj.AssemblyReference.cache
+C:\Users\bibev\OneDrive\Рабочий стол\учеба\дз\c#\homeWork_05\ex02\obj\Debug\net6.0\ex02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bibev\OneDrive\Рабочий стол\учеба\дз\c#\homeWork_05\ex02\obj\Debug\net6.0\ex02.AssemblyInfoInputs.cache
+C:\Users\bibev\OneDrive\Рабочий стол\учеба\дз\c#\homeWork_05\ex02\obj\Debug\net6.0\ex02.AssemblyInfo.cs
+C:\Users\bibev\OneDrive\Рабочий стол\учеба\дз\c#\homeWork_05\ex02\obj\Debug\net6.0\ex02.csproj.CoreCompileInputs.cache
+C:\Users\bibev\OneDrive\Рабочий стол\учеба\дз\c#\homeWork_05\ex02\bin\Debug\net6.0\ex02.exe
+C:\Users\bibev\OneDrive\Рабочий стол\учеба\дз\c#\homeWork_05\ex02\bin\Debug\net6.0\ex02.deps.json
+C:\Users\bibev\OneDrive\Рабочий стол\учеба\дз\c#\homeWork_05\ex02\bin\Debug\net6.0\ex02.runtimeconfig.json
+C:\Users\bibev\OneDrive\Рабочий стол\учеба\дз\c#\homeWork_05\ex02\bin\Debug\net6.0\ex02.dll
+C:\Users\bibev\OneDrive\Рабочий стол\учеба\дз\c#\homeWork_05\ex02\bin\Debug\net6.0\ex02.pdb
+C:\Users\bibev\OneDrive\Рабочий стол\учеба\дз\c#\homeWork_05\ex02\obj\Debug\net6.0\ex02.dll
+C:\Users\bibev\OneDrive\Рабочий стол\учеба\дз\c#\homeWork_05\ex02\obj\Debug\net6.0\refint\ex02.dll
+C:\Users\bibev\OneDrive\Рабочий стол\учеба\дз\c#\homeWork_05\ex02\obj\Debug\net6.0\ex02.pdb
+C:\Users\bibev\OneDrive\Рабочий стол\учеба\дз\c#\homeWork_05\ex02\obj\Debug\net6.0\ex02.genruntimeconfig.cache
+C:\Users\bibev\OneDrive\Рабочий стол\учеба\дз\c#\homeWork_05\ex02\obj\Debug\net6.0\ref\ex02.dll
